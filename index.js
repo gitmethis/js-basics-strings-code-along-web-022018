@@ -9,4 +9,4 @@ let shortGreeting = 'Welcome'
 
 
 
-let excitedWelcomeMessage = `Welcome to Flatbook ${currentUser}`
+let excitedWelcomeMessage = welcomeMessage.toUpperCase()
