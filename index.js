@@ -10,3 +10,5 @@ let shortGreeting = 'Welcome'
 
 
 let excitedWelcomeMessage = welcomeMessage.toUpperCase()
+
+const 
