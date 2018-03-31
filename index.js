@@ -11,4 +11,4 @@ let shortGreeting = 'Welcome'
 
 let excitedWelcomeMessage = welcomeMessage.toUpperCase()
 
-const shortGreeting = `Welcome ${currentUser[0]`
+const shortGreeting = `Welcome ${currentUser[0]}`
